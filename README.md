@@ -21,7 +21,7 @@ git clone https://github.com/jimthedev/angular2-falcor-webpack-builder.git
 ### Build
 
 ```
-cd angular2-webpack-falcor-builder
+cd angular2-falcor-webpack-builder
 ./setup.sh
 ```
 
